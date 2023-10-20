@@ -22,6 +22,8 @@ import com.project.boot.service.BoardService;
 import com.project.boot.service.MemberService;
 import com.project.boot.service.NoticeService;
 
+//아무거나 고친거 222 디벨롭디벨롭
+
 @Controller
 @RequestMapping("/admin")
 public class AdminController {
