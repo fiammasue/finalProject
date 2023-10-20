@@ -16,11 +16,6 @@ import com.project.boot.dto.AttachFile;
 import com.project.boot.service.AttachService;
 
 import net.coobird.thumbnailator.Thumbnails;
-//dodsdf
-//이연수 커밋????
-//지혜또 컷미...?
-
-//보미꺼 에베베
 
 @Controller
 public class AttachController {
