@@ -19,7 +19,7 @@ import net.coobird.thumbnailator.Thumbnails;
 //dodsdf
 //이연수 커밋????
 //지혜또 컷미...?
-//지혜 : 과연 누구고냐??????
+//야야ㅑㅑ 야야야 깃 잘해라..
 @Controller
 public class AttachController {
 	private static final String CURR_IMAGE_REPO_PATH = "C:\\file_repo";
