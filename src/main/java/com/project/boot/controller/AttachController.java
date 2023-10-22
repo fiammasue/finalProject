@@ -20,7 +20,7 @@ import net.coobird.thumbnailator.Thumbnails;
 //이연수 커밋????
 //지혜또 컷미...?
 
-//보미꺼 에베베
+//보미꺼 에베베정수
 
 @Controller
 public class AttachController {
